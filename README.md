@@ -1,6 +1,6 @@
 #### Data Modeling
 
-Inspected the CSVs files and sketch out an ERD of the tables.
+Inspected the CSVs files and sketched out an ERD of the tables.
 
 #### Data Engineering
 create a table schema for each of the six CSV files. Specifing data types, primary keys, foreign keys, and other constraints.
